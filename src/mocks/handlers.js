@@ -19,3 +19,5 @@ export const handlers = [
   rest.get('http://localhost:5000/api/articles', getArticles),
   rest.get('http://localhost:5000/api/topics', getTopics),
 ]
+
+

@@ -60,7 +60,12 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
+A DOM is a Document Object Model that is for an API for HTML documents.
 2. What is an event?
+An even is when you a page is manipulated using a user or a browser.
 3. What is an event listener?
+An even listener would be defined as a method that attaches an event handler to an element and avoiding overwriting existing event handlers.
 4. Why would we convert a NodeList into an Array?
+If we convert Nodelists into Arrays, it allows for developers to utilize querySelectors
 5. What is a component?
+Components are known as reusable code.
